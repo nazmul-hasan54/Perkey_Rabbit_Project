@@ -1,0 +1,15 @@
+D:\Parky_Rabbit_Project\DotNetProject\InterfacesToContract\bin\Debug\net6.0\InterfacesToContract.deps.json
+D:\Parky_Rabbit_Project\DotNetProject\InterfacesToContract\bin\Debug\net6.0\InterfacesToContract.dll
+D:\Parky_Rabbit_Project\DotNetProject\InterfacesToContract\bin\Debug\net6.0\InterfacesToContract.pdb
+D:\Parky_Rabbit_Project\DotNetProject\InterfacesToContract\obj\Debug\net6.0\InterfacesToContract.csproj.AssemblyReference.cache
+D:\Parky_Rabbit_Project\DotNetProject\InterfacesToContract\obj\Debug\net6.0\InterfacesToContract.GeneratedMSBuildEditorConfig.editorconfig
+D:\Parky_Rabbit_Project\DotNetProject\InterfacesToContract\obj\Debug\net6.0\InterfacesToContract.AssemblyInfoInputs.cache
+D:\Parky_Rabbit_Project\DotNetProject\InterfacesToContract\obj\Debug\net6.0\InterfacesToContract.AssemblyInfo.cs
+D:\Parky_Rabbit_Project\DotNetProject\InterfacesToContract\obj\Debug\net6.0\InterfacesToContract.csproj.CoreCompileInputs.cache
+D:\Parky_Rabbit_Project\DotNetProject\InterfacesToContract\obj\Debug\net6.0\InterfacesToContract.dll
+D:\Parky_Rabbit_Project\DotNetProject\InterfacesToContract\obj\Debug\net6.0\refint\InterfacesToContract.dll
+D:\Parky_Rabbit_Project\DotNetProject\InterfacesToContract\obj\Debug\net6.0\InterfacesToContract.pdb
+D:\Parky_Rabbit_Project\DotNetProject\InterfacesToContract\obj\Debug\net6.0\ref\InterfacesToContract.dll
+D:\Parky_Rabbit_Project\DotNetProject\InterfacesToContract\bin\Debug\net6.0\Domain.dll
+D:\Parky_Rabbit_Project\DotNetProject\InterfacesToContract\bin\Debug\net6.0\Domain.pdb
+D:\Parky_Rabbit_Project\DotNetProject\InterfacesToContract\obj\Debug\net6.0\InterfacesToContract.csproj.CopyComplete

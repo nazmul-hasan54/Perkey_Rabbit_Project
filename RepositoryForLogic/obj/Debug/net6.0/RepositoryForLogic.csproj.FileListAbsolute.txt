@@ -1,0 +1,17 @@
+D:\Parky_Rabbit_Project\DotNetProject\RepositoryForLogic\bin\Debug\net6.0\RepositoryForLogic.deps.json
+D:\Parky_Rabbit_Project\DotNetProject\RepositoryForLogic\bin\Debug\net6.0\RepositoryForLogic.dll
+D:\Parky_Rabbit_Project\DotNetProject\RepositoryForLogic\bin\Debug\net6.0\RepositoryForLogic.pdb
+D:\Parky_Rabbit_Project\DotNetProject\RepositoryForLogic\bin\Debug\net6.0\Domain.dll
+D:\Parky_Rabbit_Project\DotNetProject\RepositoryForLogic\bin\Debug\net6.0\InterfacesToContract.dll
+D:\Parky_Rabbit_Project\DotNetProject\RepositoryForLogic\bin\Debug\net6.0\InterfacesToContract.pdb
+D:\Parky_Rabbit_Project\DotNetProject\RepositoryForLogic\bin\Debug\net6.0\Domain.pdb
+D:\Parky_Rabbit_Project\DotNetProject\RepositoryForLogic\obj\Debug\net6.0\RepositoryForLogic.csproj.AssemblyReference.cache
+D:\Parky_Rabbit_Project\DotNetProject\RepositoryForLogic\obj\Debug\net6.0\RepositoryForLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Parky_Rabbit_Project\DotNetProject\RepositoryForLogic\obj\Debug\net6.0\RepositoryForLogic.AssemblyInfoInputs.cache
+D:\Parky_Rabbit_Project\DotNetProject\RepositoryForLogic\obj\Debug\net6.0\RepositoryForLogic.AssemblyInfo.cs
+D:\Parky_Rabbit_Project\DotNetProject\RepositoryForLogic\obj\Debug\net6.0\RepositoryForLogic.csproj.CoreCompileInputs.cache
+D:\Parky_Rabbit_Project\DotNetProject\RepositoryForLogic\obj\Debug\net6.0\RepositoryForLogic.csproj.CopyComplete
+D:\Parky_Rabbit_Project\DotNetProject\RepositoryForLogic\obj\Debug\net6.0\RepositoryForLogic.dll
+D:\Parky_Rabbit_Project\DotNetProject\RepositoryForLogic\obj\Debug\net6.0\refint\RepositoryForLogic.dll
+D:\Parky_Rabbit_Project\DotNetProject\RepositoryForLogic\obj\Debug\net6.0\RepositoryForLogic.pdb
+D:\Parky_Rabbit_Project\DotNetProject\RepositoryForLogic\obj\Debug\net6.0\ref\RepositoryForLogic.dll

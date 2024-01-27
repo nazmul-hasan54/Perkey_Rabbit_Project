@@ -1,0 +1,9 @@
+1. Download and Unzip the zip file.
+2. Restore the database backup file attached to the project named Employee.bak (If it doesn't work, you should open the 
+   project, go to the appSetting.json, and replace the server name by your sql server server name)
+3. Open and run the project that you will have to see four APIs.
+4. In this complete project I have created four sub project like Domain, DotNetProject, InterfaceToContract, and
+   RepositoryForLogic.
+5. Additionally, I have made a complete abstraction repository class named WrapperRepository and IWrapperRepository
+   interface for replacing UnitOfWork and IUnitOfWork.
+6. Thank you. 

@@ -1,0 +1,12 @@
+D:\Parky_Rabbit_Project\DotNetProject\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\Parky_Rabbit_Project\DotNetProject\Domain\bin\Debug\net6.0\Domain.dll
+D:\Parky_Rabbit_Project\DotNetProject\Domain\bin\Debug\net6.0\Domain.pdb
+D:\Parky_Rabbit_Project\DotNetProject\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\Parky_Rabbit_Project\DotNetProject\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Parky_Rabbit_Project\DotNetProject\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\Parky_Rabbit_Project\DotNetProject\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\Parky_Rabbit_Project\DotNetProject\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\Parky_Rabbit_Project\DotNetProject\Domain\obj\Debug\net6.0\Domain.dll
+D:\Parky_Rabbit_Project\DotNetProject\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\Parky_Rabbit_Project\DotNetProject\Domain\obj\Debug\net6.0\Domain.pdb
+D:\Parky_Rabbit_Project\DotNetProject\Domain\obj\Debug\net6.0\ref\Domain.dll
